@@ -1,0 +1,1 @@
+{"description":"One-pass broken-CSV reader with slice-based field extraction, behavior-identical to csv-reader 1.0.0 but much faster.","license":"MIT","name":"slice-scan-csv-reader","type":"module","version":"1.0.0"}
